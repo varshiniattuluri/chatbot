@@ -1,2 +1,2 @@
 # chatbot
-chat with pdf and i gives the answer
+chat with pdf and it gives the answer
